@@ -1,10 +1,10 @@
 # Site
-title:              MSoares98
+title:              'Márcio Soares'
 bio:                "Márcio Soares' Personal Github Page."
 description:        "This Github Page showcases every work I've accomplished."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/IMG_2146_edited.jpg'
+logo:               'assets/img/IMG_2146_edited_cropped.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
