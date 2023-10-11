@@ -6,14 +6,14 @@ comments: false
 ---
 
 # Information
-Name: Márcio Soares \
-Position: PhD student \
-Research Interests (topics/keywords): CO2 capture, porous adsorbent materials, MAS-DNP, ssNMR, materials characterization, molecular dynamics, molecular modelling \
-Email: marciosoares@ua.pt \
-CienciaVitae: 0818-4D07-E254 \
-ORCID: 0000-0001-8012-2662 \
-LinkedIn: marciomssoares \
-Twitter (X): marciomssoares
+**Name:** Márcio Soares \
+**Position:** PhD student \
+**Research Interests (topics/keywords):** CO2 capture, porous adsorbent materials, MAS-DNP, ssNMR, materials characterization, molecular dynamics, molecular modelling \
+**Email:** marciosoares@ua.pt \
+**CienciaVitae:** 0818-4D07-E254 \
+**ORCID:** 0000-0001-8012-2662 \
+**LinkedIn:** marciomssoares \
+**Twitter (X):** marciomssoares
 
 # Short Bio  
 I got my B.Sc. in Biotechnology and a M.Sc. degree in Clinical Biochemistry, both from the University of Aveiro. During my B.Sc. degree, I was co-author of a paper on the impact of rare earth elements in bivalves. My master's dissertation on "Molecular Modelling of chloride recognition and transmembrane transport by hydrazone-based synthetic receptors" yielded valuable results for the publication of a paper on the role of hydrazones as anion transporters. On 2021 I studied the dissolution of lignin in mixtures of water and deep euthetic solvents, resourting to molecular dynamics simulations, within the scope of a research grant from Project InPaCTus.\
