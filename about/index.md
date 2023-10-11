@@ -1,37 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+date: 2023-10-12
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# Information
+Name: Márcio Soares 
+Position: PhD student 
+Research Interests (topics/keywords): CO2 capture, porous adsorbent materials, MAS-DNP, ssNMR, materials characterization, molecular dynamics, molecular modelling 
+Email: marciosoares@ua.pt 
+CienciaVitae: 0818-4D07-E254 
+ORCID: 0000-0001-8012-2662 
+LinkedIn: marciomssoares
+Twitter (X): @marciomssoares 
 
-## Preview
+# Short Bio  
+I got my B.Sc. in Biotechnology and a M.Sc. degree in Clinical Biochemistry, both from the University of Aveiro. During my B.Sc. degree, I was co-author of a paper on the impact of rare earth elements in bivalves. My master's dissertation on "Molecular Modelling of chloride recognition and transmembrane transport by hydrazone-based synthetic receptors" yielded valuable results for the publication of a paper on the role of hydrazones as anion transporters. On 2021 I studied the dissolution of lignin in mixtures of water and deep euthetic solvents, resourting to molecular dynamics simulations, within the scope of a research grant from Project InPaCTus. 
+On November 2022, I started my Ph.D. studies on Team Specko (ERC PhD Grant) under the supervision of Dr. Luís Mafra, Dr. Mariana Sardo and Dr. Ildefonso Marín-Montesinos. My research focuses on the use of NMR and MAS-DNP methodology to characterize adsorbed gas species in porous material, as well as performing computer modelling studies in close synergy with the synthesis of said materials. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+# Scientific Interests 
+The main topics of research include: i) design, development and application of NMR and MAS-DNP methodology to characterize adsorbed gas species in porous materials; ii) perform computer modelling studies in close synergy with the synthesis of the materials; iii) perform numerical simulations of MAS-DNP to assist the design, development and application of the methodology developed in the first topic, towards assessing the performance of the required polarizing agents. 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+# Education 
+BSc. in Biotechnology (2019) at University of Aveiro, Portugal
+MSc. in Biochemistry (2021), with specialization in the field of Clinical Biochemistry, at University of Aveiro, Portugal
+PhD in Chemistry (2022-today) on Team SPECKO (CICECO - Aveiro Institute of Materials) at University of Aveiro, Portugal
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+# Activities
+MolSim Winter School (2023) at University of Amsterdam, Netherlands
+3P Adsorption Week (2023) + Poster Presentation, Leipzig
