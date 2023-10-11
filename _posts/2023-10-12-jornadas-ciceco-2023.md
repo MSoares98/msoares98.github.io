@@ -6,9 +6,10 @@ excerpt: "Poster Showcase for Jornadas CICECO 2023"
 comments: false
 ---
 
-# Jornadas CICECO 2023
-## Poster Showcase
+# Poster Showcase
 
-Work in Progress
+## Ab-Initio 3D Model
+The presented model results from the Ab-Initio simulation of a slab of SBA-15 grafted with APTES.
+<center><iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/MSoares98/msoares98.github.io/master/assets/stl/slit_bare.3dm$camera=-1.30305,0.03332,-5.96578,0.03122,0.10828,0.08524,0.00000,1.00000,0.00000,45.00000$cameramode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe></center>
+You can see the formation of covalent bonds between the amines and silanol groups, as a proton is shared between them.
 
-<iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=assets/models/solids.obj,assets/models/solids.mtl$camera=-1.44989,7.58247,9.17308,3.13665,1.46709,0.00000,0.00000,1.00000,0.00000,45.00000$cameramode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe>
