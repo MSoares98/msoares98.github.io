@@ -20,13 +20,16 @@ I got my B.Sc. in Biotechnology and a M.Sc. degree in Clinical Biochemistry, bot
 On November 2022, I started my Ph.D. studies on Team Specko (ERC PhD Grant) under the supervision of Dr. Luís Mafra, Dr. Mariana Sardo and Dr. Ildefonso Marín-Montesinos. My research focuses on the use of NMR and MAS-DNP methodology to characterize adsorbed gas species in porous material, as well as performing computer modelling studies in close synergy with the synthesis of said materials. 
 
 # Scientific Interests 
-The main topics of research include: i) design, development and application of NMR and MAS-DNP methodology to characterize adsorbed gas species in porous materials; ii) perform computer modelling studies in close synergy with the synthesis of the materials; iii) perform numerical simulations of MAS-DNP to assist the design, development and application of the methodology developed in the first topic, towards assessing the performance of the required polarizing agents. 
+The main topics of research include:
+1. Design, development and application of NMR and MAS-DNP methodology to characterize adsorbed gas species in porous materials
+2. Perform computer modelling studies in close synergy with the synthesis of the materials
+3. Perform numerical simulations of MAS-DNP to assist the design, development and application of the methodology developed in the first topic, towards assessing the performance of the required polarizing agents. 
 
 # Education 
-BSc. in Biotechnology (2019) at University of Aveiro, Portugal
-MSc. in Biochemistry (2021), with specialization in the field of Clinical Biochemistry, at University of Aveiro, Portugal
-PhD in Chemistry (2022-today) on Team SPECKO (CICECO - Aveiro Institute of Materials) at University of Aveiro, Portugal
+- BSc. in Biotechnology (2019) at University of Aveiro, Portugal
+- MSc. in Biochemistry (2021), with specialization in the field of Clinical Biochemistry, at University of Aveiro, Portugal
+- PhD in Chemistry (2022-today) on Team SPECKO (CICECO - Aveiro Institute of Materials) at University of Aveiro, Portugal
 
 # Activities
-MolSim Winter School (2023) at University of Amsterdam, Netherlands
-3P Adsorption Week (2023) + Poster Presentation, Leipzig
+- MolSim Winter School (2023) at University of Amsterdam, Netherlands
+- 3P Adsorption Week (2023) + Poster Presentation, Leipzig
