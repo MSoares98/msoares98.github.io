@@ -6,6 +6,7 @@ excerpt: "Poster Showcase for Jornadas CICECO 2023"
 comments: false
 ---
 
-# Test Page
+# Jornadas CICECO 2023
+## Poster Showcase
 
-Jornadas
+Work in Progress
