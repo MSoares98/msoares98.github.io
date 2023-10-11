@@ -11,4 +11,4 @@ comments: false
 
 Work in Progress
 
-{% include stlviewer.html src="slit_bare.stl" width=500 height=300 extrastyle="slit_bare.mtl" %}
+{% include stlviewer.html src="slit_bare.stl" width=500 height=300 extrastyle="" %}
