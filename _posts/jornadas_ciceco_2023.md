@@ -2,7 +2,7 @@
 layout: post
 title:  "Jornadas CICECO"
 date:   2023-10-12
-excerpt: "Poster Showcase for Jornadas CICECO 2023."
+excerpt: "Poster Showcase for Jornadas CICECO 2023"
 comments: false
 ---
 
