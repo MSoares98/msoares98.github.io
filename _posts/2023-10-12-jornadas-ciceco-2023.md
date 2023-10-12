@@ -34,10 +34,9 @@ CO2 is represented in gray and red, for C and O, respectively.
 Hydrogens were removed for clearer visualization.
 
 ### TpPa-1
-<video width="480" height="320" controls="controls">
+<video width="640" height="480" controls="controls">
   <source src="https://i.imgur.com/xFg8F6a.mp4" type="video/mp4">
 </video>
-![](https://i.imgur.com/xFg8F6a.mp4)
-![](https://i.imgur.com/xFg8F6a.gifv)
-<iframe class="imgur-embed" width="100%" height="480" frameborder="0" src="https://i.imgur.com/xFg8F6a.gifv"></iframe>
-![](https://imgur.com/g3tVlDN)
+<video width="640" height="480" controls="controls">
+  <source src="https://i.imgur.com/g3tVlDN.mp4" type="video/mp4">
+</video>
