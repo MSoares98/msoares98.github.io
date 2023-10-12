@@ -16,9 +16,9 @@ You can see the formation of covalent bonds between the amines and silanol group
 
 ## Gas Adsorption
 Grand Canonical Monte Carlo (GCMC) was used to perform gas adsorption studies in COFs and Silica slit pores.
-![](assets/img/COF-42_Adsorption.gif)
-![](assets/img/TpPa-1_Adsorption.gif)
-![](assets/img/SilicaSlit_Adsorption.gif)
+![](/assets/img/COF-42_Adsorption.gif)
+![](/assets/img/TpPa-1_Adsorption.gif)
+![](/assets/img/SilicaSlit_Adsorption.gif)
 
 ## Molecular Dynamics
 Molecular Dynamics simulations were performed on two 2D COFs.\
