@@ -11,7 +11,7 @@ comments: false
 ## Ab-Initio 3D Model
 The presented model results from the Ab-Initio simulation of a slab of SBA-15 grafted with APTES.\
 Label: C = Brown, Si = Yellow, O = Red, H = White(ish), N = Blue
-<center><iframe width="640" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/MSoares98/msoares98.github.io/master/assets/stl/slit_bare.3dm$camera=-1.30305,0.03332,-5.96578,0.03122,0.10828,0.08524,0.00000,1.00000,0.00000,45.00000$cameramode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe></center>
+<center><iframe width="100%" height="480" style="border:1px solid #eeeeee;" src="https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/MSoares98/msoares98.github.io/master/assets/stl/slit_bare.3dm$camera=-1.30305,0.03332,-5.96578,0.03122,0.10828,0.08524,0.00000,1.00000,0.00000,45.00000$cameramode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=42,43,46,255$defaultcolor=200,200,200$edgesettings=off,0,0,0,1"></iframe></center>
 You can see the formation of covalent bonds between the amines and silanol groups, as a proton is shared between them.
 
 ---
@@ -34,17 +34,17 @@ The sheets are represented in different colors for clearer visualization.\
 CO2 is represented in gray and red, for C and O, respectively.
 ### COF-42
 Hydrogens were removed for clearer visualization.
-<center><video width="640" height="480" controls="controls">
+<center><video width="100%" height="480" controls="controls">
   <source src="https://i.imgur.com/2iUuS1k.mp4" type="video/mp4">
 </video>
-<video width="640" height="480" controls="controls">
+<video width="100%" height="480" controls="controls">
   <source src="https://i.imgur.com/Z3H29W1.mp4" type="video/mp4">
 </video></center>
 ### TpPa-1
-<center><video width="640" height="480" controls="controls">
+<center><video width="100%" height="480" controls="controls">
   <source src="https://i.imgur.com/xFg8F6a.mp4" type="video/mp4">
 </video>
-<video width="640" height="480" controls="controls">
+<video width="100%" height="480" controls="controls">
   <source src="https://i.imgur.com/g3tVlDN.mp4" type="video/mp4">
 </video></center>
 
