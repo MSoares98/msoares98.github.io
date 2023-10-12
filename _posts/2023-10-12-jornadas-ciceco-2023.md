@@ -30,8 +30,13 @@ The sheets are represented in different colors for clearer visualization.\
 CO2 is represented in gray and red, for C and O, respectively.
 
 ### COF-42
-
 Hydrogens were removed for clearer visualization.
+<video width="640" height="480" controls="controls">
+  <source src="https://i.imgur.com/2iUuS1k.mp4" type="video/mp4">
+</video>
+<video width="640" height="480" controls="controls">
+  <source src="https://i.imgur.com/Z3H29W1.mp4" type="video/mp4">
+</video>
 
 ### TpPa-1
 <video width="640" height="480" controls="controls">
