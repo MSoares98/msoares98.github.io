@@ -17,11 +17,17 @@ You can see the formation of covalent bonds between the amines and silanol group
 ## Gas Adsorption
 Grand Canonical Monte Carlo (GCMC) was used to perform gas adsorption studies in COFs and Silica slit pores.
 ### COF-42
+<center>
 ![](/assets/img/COF-42_Adsorption.gif)
+</center>
 ### TpPa-1
+<center>
 ![](/assets/img/TpPa-1_Adsorption.gif)
+</center>
 ### Silica
+<center>
 ![](/assets/img/SilicaSlit_Adsorption.gif)
+</center>
 
 ## Molecular Dynamics
 Molecular Dynamics simulations were performed on two 2D COFs.\
@@ -31,17 +37,17 @@ CO2 is represented in gray and red, for C and O, respectively.
 
 ### COF-42
 Hydrogens were removed for clearer visualization.
-<video width="640" height="480" controls="controls">
+<center><video width="640" height="480" controls="controls">
   <source src="https://i.imgur.com/2iUuS1k.mp4" type="video/mp4">
 </video>
 <video width="640" height="480" controls="controls">
   <source src="https://i.imgur.com/Z3H29W1.mp4" type="video/mp4">
-</video>
+</video></center>
 
 ### TpPa-1
-<video width="640" height="480" controls="controls">
+<center><video width="640" height="480" controls="controls">
   <source src="https://i.imgur.com/xFg8F6a.mp4" type="video/mp4">
 </video>
 <video width="640" height="480" controls="controls">
   <source src="https://i.imgur.com/g3tVlDN.mp4" type="video/mp4">
-</video>
+</video></center>
